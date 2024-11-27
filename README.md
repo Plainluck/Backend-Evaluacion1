@@ -1,3 +1,4 @@
+[Django - Static Resources]
 Para esta evaluación se nos pidió realizar 1 proyecto con una aplicación, sobre un tema a elección.
 La aplicación debía de contar con:
 - 1 navbar, con las rutas a las cinco vistas.
